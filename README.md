@@ -1,4 +1,4 @@
-![Image description](https://github.com/yuchaojiang/BIOS635/blob/master/Title.png)
+![Image description](https://github.com/yuchaojiang/BIOS635_Spring_2022/blob/master/title.png)
 
 ### Instructor
 
