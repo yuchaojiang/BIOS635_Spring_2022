@@ -11,7 +11,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **Description**: This course is an introductory course to machine learning and statistical learning and is required for MPH students with Data Science concentration. While some technical details will be covered, emphasis will be made on understanding the models, intuitions, and strengths and weaknesses of the various approaches. The goal is to equip students with knowledge of existing tools for data analysis and to get students prepared for more advanced courses in machine learning. Programming language will be R – students will learn how to use the free and powerful software R in connection with each of the methods exposed in the class. For deep learning, Keras/TensorFlow in Python will be introduced if time permits.
 
-* **[Course Slack](https://bios635.slack.com)**
+* **[Course Slack](https://bios635uncchapelhill.slack.com)**
 
 * **[Syllabus](https://www.dropbox.com/s/3jhftbctixglqsn/BIOS%20635_Intro%20Machine%20Learning_Syllabus_Spring_2022.pdf?dl=0)**
 
