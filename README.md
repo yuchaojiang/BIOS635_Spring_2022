@@ -13,7 +13,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **[Course Slack](https://bios635.slack.com)**
 
-* **[Syllabus](https://www.dropbox.com/s/o7bu8kg1lcv74tc/BIOS%20635_Intro%20Machine%20Learning_Syllabus_v1.pdf?dl=0)**
+* **[Syllabus](https://www.dropbox.com/s/3jhftbctixglqsn/BIOS%20635_Intro%20Machine%20Learning_Syllabus_Spring_2022.pdf?dl=0)**
 
 * **[Schedule](https://www.dropbox.com/s/qoran00l1pfm2qz/CourseSchedule.pdf?dl=0)**
 
