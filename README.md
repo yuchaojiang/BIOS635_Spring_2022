@@ -29,16 +29,6 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **Lecture 1**: Introduction
 
-### Assignments
-
-* **Assignment 1**
-
-* **Assignment 2**
-
-* **Assignment 3**
-
-* **Assignment 4**
-
 ### Other Resources
 
 * **Machine Learning Textbooks**:<br />
