@@ -21,9 +21,10 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **Office Hours**: Thursdays, 11:00am - 12:00pm; virtual office hours conducted via Zoom.
 
-* **Teaching Assistant**: TBD.
+* **Teaching Assistant**: Jianqiao Wang, jianqiao@live.unc.edu.
 
-* **Grader**: TBD.
+* **Graders**: Sara Qi (xiaoyuqi@email.unc.edu)
+               Xinjie Qian (qianqxj@live.unc.edu).
 
 ### Lecture Slides and R Markdowns
 
