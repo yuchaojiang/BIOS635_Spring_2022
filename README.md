@@ -37,7 +37,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
   * Efron and Hastie, [Computer Age Statistical Inference](https://web.stanford.edu/~hastie/CASI/), Cambridge University Press (recommended)
   * Goodfellow, Bengio, and Courville, [Deep Learning](https://www.deeplearningbook.org/), MIT Press (more advanced)
   * Hastie, Tibshirani, Friedman, [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/), Springer (more advanced)
-  * James, Witten, Hastie, and Tibshirani, [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/), Springer (**required**)
+  * James, Witten, Hastie, and Tibshirani, [An Introduction to Statistical Learning](https://www.statlearning.com/), Springer (**required**)
   * Murphy, [Machine Learning: A Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/), MIT Press (more advanced)
 
 * **Other Machine Learning Resources**:<br />
