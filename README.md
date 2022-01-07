@@ -19,7 +19,9 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **Class Time & Location**: Tuesdays and Thursdays, 9:30am – 10:45am, 228 Rosenau Hall.
 
-* **Office Hours**: Thursdays, 10:45am - 11:45am (Yuchao Jiang; virtual); Mondays, 1:30pm - 2:30pm (Jianqiao Wang; virtual).
+* **Office Hours**
+** Instructor: Thursdays, 10:45am - 11:45am ([Calendly](https://calendly.com/bios635/bios635-office-hours-yuchao-jiang))
+** TA: Mondays, 1:30pm - 2:30pm
 
 * **Teaching Assistant**: Jianqiao Wang (jianqiao@live.unc.edu).
 
