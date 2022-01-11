@@ -29,6 +29,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 ### Lecture Slides and R Markdowns
 
 * **Lecture 1**: Introduction ([slides](https://www.dropbox.com/s/dwwfxlkbv895h4d/Lecture_1_Intro.pdf?dl=0))
+* **Lecture 2**: Curse of Dimensionality & Assessing Model Accuracy ([slides](https://www.dropbox.com/s/wj5somyf2smmnpv/Lecture_2_curse_of_dimensionality_model_assessment.pdf?dl=0))
 
 ### Other Resources
 
