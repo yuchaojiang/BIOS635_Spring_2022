@@ -30,6 +30,8 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **Lecture 1**: Introduction ([slides](https://www.dropbox.com/s/dwwfxlkbv895h4d/Lecture_1_Intro.pdf?dl=0))
 * **Lecture 2**: Curse of Dimensionality & Assessing Model Accuracy ([slides](https://www.dropbox.com/s/wj5somyf2smmnpv/Lecture_2_curse_of_dimensionality_model_assessment.pdf?dl=0))
+* **Lecture 3**: Bias-Variance Tradeoff & K-Nearest Neighbor ([slides](https://www.dropbox.com/s/3emzfpqr8gekdfd/Lecture_3_knn_bias_variance.pdf?dl=0))
+* **Lecture 4**: Linear Regression ([slides](https://www.dropbox.com/s/23qezd5qo8ays35/Lecture_4_linear_regression.pdf?dl=0))
 
 ### Other Resources
 
