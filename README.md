@@ -33,6 +33,10 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 * **Lecture 3**: Bias-Variance Tradeoff & K-Nearest Neighbor ([slides](https://www.dropbox.com/s/3emzfpqr8gekdfd/Lecture_3_knn_bias_variance.pdf?dl=0))
 * **Lecture 4**: Linear Regression ([slides](https://www.dropbox.com/s/23qezd5qo8ays35/Lecture_4_linear_regression.pdf?dl=0))
 
+### Assignments
+
+* **Assignment 1**: Theory; Coding
+
 ### Other Resources
 
 * **Machine Learning Textbooks**:<br />
