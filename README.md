@@ -35,7 +35,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 ### Assignments
 
-* **Assignment 1**: [Theory](https://www.dropbox.com/s/3zd3farond5hprn/Homework%201.pdf?dl=0); [Coding](https://www.dropbox.com/s/yj0zpw04fki09e6/Assignment1.rmd?dl=0); [Data](https://www.dropbox.com/s/69ijpidpqadh3i0/data.zip?dl=0).
+* **Assignment 1**: [theory](https://www.dropbox.com/s/3zd3farond5hprn/Homework%201.pdf?dl=0); [coding](https://www.dropbox.com/s/yj0zpw04fki09e6/Assignment1.rmd?dl=0); [data](https://www.dropbox.com/s/69ijpidpqadh3i0/data.zip?dl=0).
 
 ### Other Resources
 
