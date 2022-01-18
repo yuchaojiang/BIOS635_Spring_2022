@@ -30,13 +30,13 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **Lecture 1**: Introduction ([slides](https://www.dropbox.com/s/dwwfxlkbv895h4d/Lecture_1_Intro.pdf?dl=0))
 * **Lecture 2**: Curse of Dimensionality & Assessing Model Accuracy ([slides](https://www.dropbox.com/s/wj5somyf2smmnpv/Lecture_2_curse_of_dimensionality_model_assessment.pdf?dl=0))
-* **Lecture 3**: Bias-Variance Tradeoff & K-Nearest Neighbor ([slides](https://www.dropbox.com/s/3emzfpqr8gekdfd/Lecture_3_knn_bias_variance.pdf?dl=0), html)
+* **Lecture 3**: Bias-Variance Tradeoff & K-Nearest Neighbor ([slides](https://www.dropbox.com/s/3emzfpqr8gekdfd/Lecture_3_knn_bias_variance.pdf?dl=0), [html](https://www.dropbox.com/s/vageo8gvyxvshbq/KNN.html?dl=0))
 * **Lecture 4**: Linear Regression ([slides](https://www.dropbox.com/s/23qezd5qo8ays35/Lecture_4_linear_regression.pdf?dl=0), html)
 * **Lecture 5**: Logistic Regression (slides, html)
 
 ### Assignments
 
-* **Assignment 1**: theory ([pdf](https://www.dropbox.com/s/3zd3farond5hprn/Homework%201.pdf?dl=0),[LaTex](https://www.dropbox.com/s/qo814y8dwgkst9s/Homework%201.tex?dl=0)); coding ([rmd](https://www.dropbox.com/s/yj0zpw04fki09e6/Assignment1.rmd?dl=0), [data](https://www.dropbox.com/s/69ijpidpqadh3i0/data.zip?dl=0)).
+* **Assignment 1**: theory ([pdf](https://www.dropbox.com/s/3zd3farond5hprn/Homework%201.pdf?dl=0), [LaTex](https://www.dropbox.com/s/qo814y8dwgkst9s/Homework%201.tex?dl=0)); coding ([rmd](https://www.dropbox.com/s/yj0zpw04fki09e6/Assignment1.rmd?dl=0), [data](https://www.dropbox.com/s/69ijpidpqadh3i0/data.zip?dl=0)).
 
 ### Other Resources
 
