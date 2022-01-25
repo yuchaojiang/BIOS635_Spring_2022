@@ -32,7 +32,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 * **Lecture 2**: Curse of Dimensionality & Assessing Model Accuracy ([slides](https://www.dropbox.com/s/wj5somyf2smmnpv/Lecture_2_curse_of_dimensionality_model_assessment.pdf?dl=0))
 * **Lecture 3**: Bias-Variance Tradeoff & K-Nearest Neighbor ([slides](https://www.dropbox.com/s/3emzfpqr8gekdfd/Lecture_3_knn_bias_variance.pdf?dl=0), [html](https://www.dropbox.com/s/vageo8gvyxvshbq/KNN.html?dl=0))
 * **Lecture 4**: Linear Regression ([slides](https://www.dropbox.com/s/23qezd5qo8ays35/Lecture_4_linear_regression.pdf?dl=0), [html](https://www.dropbox.com/s/mj238xs2t8xepij/Linear_Regression.html?dl=0))
-* **Lecture 5**: Logistic Regression ([slides](https://www.dropbox.com/s/k4yme2fgdtais6w/Lecture_5_logistic_regression.pdf?dl=0), html)
+* **Lecture 5**: Logistic Regression ([slides](https://www.dropbox.com/s/k4yme2fgdtais6w/Lecture_5_logistic_regression.pdf?dl=0), [html](https://www.dropbox.com/s/23x4bkz6ovu17dm/Logistic_Regression_in_class.html?dl=0))
 * **Lecture 6**: Linear/Quadratic Discriminant Analysis ([slides](https://www.dropbox.com/s/f3nl7qmxsejn9b7/Lecture_6_LDA_QDA.pdf?dl=0), html)
 
 ### Assignments
