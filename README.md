@@ -35,7 +35,9 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 * **Lecture 5**: Logistic Regression ([slides](https://www.dropbox.com/s/k4yme2fgdtais6w/Lecture_5_logistic_regression.pdf?dl=0), [html](https://www.dropbox.com/s/23x4bkz6ovu17dm/Logistic_Regression_in_class.html?dl=0))
 * **Lecture 6**: Linear/Quadratic Discriminant Analysis ([slides](https://www.dropbox.com/s/f3nl7qmxsejn9b7/Lecture_6_LDA_QDA.pdf?dl=0), [html](https://www.dropbox.com/s/jnrt0sitrqk10s3/Discriminant_Analysis.html?dl=0))
 * **Lecture 7**: Naive Bayes & ROC Curve ([slides](https://www.dropbox.com/s/cchzq97smngumlo/Lecture_7_Naive_Bayes.pdf?dl=0), [html](https://www.dropbox.com/s/z4qjabizcaiy9ic/Discriminant_Analysis_Naive_Bayes.html?dl=0))
-* **Lecture 8**: Nonlinearity ([slides](https://www.dropbox.com/s/7c55ua5wzdvfmgs/Lecture_8_Nonlinearity_Polynomial_Splines.pdf?dl=0), html)
+* **Lecture 8**: Nonlinearity ([slides](https://www.dropbox.com/s/7c55ua5wzdvfmgs/Lecture_8_Nonlinearity_Polynomial_Splines.pdf?dl=0), [html](https://www.dropbox.com/s/f0f9l0mvdfbxhwq/Nonlinearity.html?dl=0))
+* **Lecture 9**: Cross Validation ([slides](https://www.dropbox.com/s/ymcukjgcp2vee1v/Lecture_9_Cross_Validation.pdf?dl=0), html)
+* **Lecture 10**: Bootstrap ([slides](https://www.dropbox.com/s/9pu78atpmd1ymhv/Lecture_10_Bootstrap.pdf?dl=0), html)
 
 ### Assignments
 
