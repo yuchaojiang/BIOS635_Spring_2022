@@ -38,7 +38,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 * **Lecture 8**: Nonlinearity ([slides](https://www.dropbox.com/s/7c55ua5wzdvfmgs/Lecture_8_Nonlinearity_Polynomial_Splines.pdf?dl=0), [html](https://www.dropbox.com/s/f0f9l0mvdfbxhwq/Nonlinearity.html?dl=0))
 * **Lecture 9**: Cross Validation ([slides](https://www.dropbox.com/s/ymcukjgcp2vee1v/Lecture_9_Cross_Validation.pdf?dl=0), [html](https://www.dropbox.com/s/9hrgybljtllul60/Cross_Validation.html?dl=0))
 * **Lecture 10**: Bootstrap ([slides](https://www.dropbox.com/s/9pu78atpmd1ymhv/Lecture_10_Bootstrap.pdf?dl=0), [html](https://www.dropbox.com/s/47fvlx58u7853ae/Bootstrap.html?dl=0))
-* **Lecture 11**: Subset/Stepwise Selection, AIC, BIC, Adjusted R-squared ([slides](https://www.dropbox.com/s/6gmb2mimzyjg2sn/Lecture_11_Foward_Backward_Stepwise_Selection.pdf?dl=0), html)
+* **Lecture 11**: Subset/Stepwise Selection, AIC, BIC, Adjusted R-squared ([slides](https://www.dropbox.com/s/6gmb2mimzyjg2sn/Lecture_11_Foward_Backward_Stepwise_Selection.pdf?dl=0), [html](https://www.dropbox.com/s/kpt0oq4jv1odaji/Stepwise_Selection.html?dl=0))
 * **Lecture 12**: Shrinkage Methods, Ridge and Lasso Regression ([slides](https://www.dropbox.com/s/trbs8il2z4xbvg8/Lecture_12_Ridge_Lasso_Regression.pdf?dl=0), html)
 
 ### Assignments
