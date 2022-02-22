@@ -42,6 +42,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 * **Lecture 12**: Shrinkage Methods, Ridge and Lasso Regression ([slides](https://www.dropbox.com/s/trbs8il2z4xbvg8/Lecture_12_Ridge_Lasso_Regression.pdf?dl=0), [html](https://www.dropbox.com/s/qam4r6c4go0rpxr/Ridge_Lasso.html?dl=0), [data](https://www.dropbox.com/s/u6v6uehh43113a8/BinomialExample.rdata?dl=0))
 * **Lecture 13**: Principal Component Regression & Partial Least Squares ([slides](https://www.dropbox.com/s/1ftbvqe53juiikj/Lecture_13_Principal_Component_Analysis_Regression.pdf?dl=0), [html](https://www.dropbox.com/s/k9736rwmw4jqjrj/PCA_PCR.html?dl=0))
 * **Lecture 14**: Midterm Review ([slides](https://www.dropbox.com/s/9k0pbo90znkbdfd/Lecture_14_Midterm_Review.pdf?dl=0))
+* **Lecture 15**: Decision Trees ([slides](https://www.dropbox.com/s/8uk90pcm3shv8kd/Lecture_15_Decision_Trees.pdf?dl=0), html)
 
 ### Assignments
 
