@@ -50,10 +50,11 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 
 * **Assignment 1**: theory ([pdf](https://www.dropbox.com/s/3zd3farond5hprn/Homework%201.pdf?dl=0), [LaTex](https://www.dropbox.com/s/qo814y8dwgkst9s/Homework%201.tex?dl=0)); coding ([rmd](https://www.dropbox.com/s/yj0zpw04fki09e6/Assignment1.rmd?dl=0), [data](https://www.dropbox.com/s/69ijpidpqadh3i0/data.zip?dl=0)); solutions ([pdf](https://www.dropbox.com/s/slirzjnbjne3375/Homework%201-solution.pdf?dl=0), [html](https://www.dropbox.com/s/6uvq4r7n1sf47j3/Assignment1_Solutions.html?dl=0)).
 * **Assignment 2**: theory ([pdf](https://www.dropbox.com/s/4fqyv05wrr3yhdv/Homework%202.pdf?dl=0), [LaTex](https://www.dropbox.com/s/h8gp8ungni6wa2f/Homework%202.tex?dl=0)); coding ([rmd](https://www.dropbox.com/s/qjcxb14lmqh4fpi/Assignment2.rmd?dl=0)); solutions ([pdf](https://www.dropbox.com/s/fig4d6tdm21isvn/Homework%202-solution.pdf?dl=0), [html](https://www.dropbox.com/s/12c5fiulq8y9s6t/Assignment2_Solutions.html?dl=0)).
+* **Assignment 3**: theory ([pdf](https://www.dropbox.com/s/aub308rk3e7ro8b/Homework%203.pdf?dl=0),[LaTex](https://www.dropbox.com/s/tfqufa95po76o9w/Homework%203.tex?dl=0)); coding ([rmd](https://www.dropbox.com/s/p3vt70sfuijaez8/Assignment3.rmd?dl=0)); solutions (pdf, html).
 
 ### Exams
 
-* **Midterm**: [exam](https://www.dropbox.com/s/m4nd14x0sn805mt/midterm.pdf?dl=0), [solutions](https://www.dropbox.com/s/ng9j0jeim4wx2bg/midterm_solutions.pdf?dl=0)
+* **Midterm**: [exam](https://www.dropbox.com/s/m4nd14x0sn805mt/midterm.pdf?dl=0), [solutions](https://www.dropbox.com/s/ng9j0jeim4wx2bg/midterm_solutions.pdf?dl=0).
 * **Final**: May 3rd 8am, Rosenau 228.
 
 ### Other Resources
