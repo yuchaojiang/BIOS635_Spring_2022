@@ -54,7 +54,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 ### Exams
 
 * **Midterm**: [exam](https://www.dropbox.com/s/m4nd14x0sn805mt/midterm.pdf?dl=0), [solutions](https://www.dropbox.com/s/ng9j0jeim4wx2bg/midterm_solutions.pdf?dl=0)
-* **Final**
+* **Final**: May 3rd 8am, Rosenau 228.
 
 ### Other Resources
 
