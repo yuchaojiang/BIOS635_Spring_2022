@@ -43,7 +43,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 * **Lecture 13**: Principal Component Regression & Partial Least Squares ([slides](https://www.dropbox.com/s/1ftbvqe53juiikj/Lecture_13_Principal_Component_Analysis_Regression.pdf?dl=0), [html](https://www.dropbox.com/s/k9736rwmw4jqjrj/PCA_PCR.html?dl=0))
 * **Lecture 14**: Midterm Review ([slides](https://www.dropbox.com/s/9k0pbo90znkbdfd/Lecture_14_Midterm_Review.pdf?dl=0))
 * **Lecture 15**: Decision Trees ([slides](https://www.dropbox.com/s/8uk90pcm3shv8kd/Lecture_15_Decision_Trees.pdf?dl=0), [html](https://www.dropbox.com/s/3za4x3966nx6y8w/Decision_Trees_in_class.html?dl=0))
-* **Lecture 16**: Bagging, Boosting & Random Forest ([slides](https://www.dropbox.com/s/y01fmvxw6y6qmx6/Lecture_16_Bagging_Boosting_Random_Forest.pdf?dl=0), html)
+* **Lecture 16**: Bagging, Boosting & Random Forest ([slides](https://www.dropbox.com/s/y01fmvxw6y6qmx6/Lecture_16_Bagging_Boosting_Random_Forest.pdf?dl=0), [html](https://www.dropbox.com/s/wxiptwb6t993mqs/Bagging_Boosting_Random_Forest.html?dl=0))
 * **Lecture 17**: Support Vector Classifier & Kernel Methods ([slides](https://www.dropbox.com/s/nki3vbqkd1zwzw0/Lecture_17_Support_Vector_Classifiers_Kernel.pdf?dl=0), html)
 
 ### Assignments
