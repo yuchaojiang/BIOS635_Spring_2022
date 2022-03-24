@@ -47,6 +47,8 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 * **Lecture 17**: Project Guidelines ([slides](https://www.dropbox.com/s/c5ust5t5tbhovcd/Lecture_17_Practical_Guidelines_Project.pdf?dl=0))
 * **Lecture 18**: Support Vector Classifier & Kernel Methods ([slides](https://www.dropbox.com/s/nki3vbqkd1zwzw0/Lecture_18_Support_Vector_Classifiers_Kernel.pdf?dl=0), [html](https://www.dropbox.com/s/ilgxpk5pvoxe72n/Support_Vector_Classifier.html?dl=0))
 * **Lecture 19**: Support Vector Machine ([slides](https://www.dropbox.com/s/88yn5mf4ulvj39a/Lecture_19_Support_Vector_Machine.pdf?dl=0), [html](https://www.dropbox.com/s/64z2i0h5o1t5fi2/SVM.html?dl=0))
+* **Lecture 20**: Unsupervised Learning & Dimension Reduction ([slides](https://www.dropbox.com/s/21h79ozokd4vg42/Lecture_20_dimension_reduction.pdf?dl=0), html)
+* **Lecture 21**: K-Means & Hierarchical Clustering ([slides](https://www.dropbox.com/s/svrsjj0kril6tbm/Lecture_21_k_means_hierarchical_clustering.pdf?dl=0), html)
 
 ### Assignments
 
