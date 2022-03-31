@@ -48,7 +48,9 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 * **Lecture 18**: Support Vector Classifier & Kernel Methods ([slides](https://www.dropbox.com/s/nki3vbqkd1zwzw0/Lecture_18_Support_Vector_Classifiers_Kernel.pdf?dl=0), [html](https://www.dropbox.com/s/ilgxpk5pvoxe72n/Support_Vector_Classifier.html?dl=0))
 * **Lecture 19**: Support Vector Machine ([slides](https://www.dropbox.com/s/88yn5mf4ulvj39a/Lecture_19_Support_Vector_Machine.pdf?dl=0), [html](https://www.dropbox.com/s/64z2i0h5o1t5fi2/SVM.html?dl=0))
 * **Lecture 20**: Unsupervised Learning & Dimension Reduction ([slides](https://www.dropbox.com/s/21h79ozokd4vg42/Lecture_20_dimension_reduction.pdf?dl=0), [html](https://www.dropbox.com/s/l5jh0ptsevdzql4/dim_reduction.html?dl=0))
-* **Lecture 21**: K-Means & Hierarchical Clustering ([slides](https://www.dropbox.com/s/svrsjj0kril6tbm/Lecture_21_k_means_hierarchical_clustering.pdf?dl=0), html)
+* **Lecture 21**: K-Means & Hierarchical Clustering ([slides](https://www.dropbox.com/s/svrsjj0kril6tbm/Lecture_21_k_means_hierarchical_clustering.pdf?dl=0), [html](https://www.dropbox.com/s/vqjtxlz28yk04su/kmeans_hierarchical_solution.html?dl=0))
+* **Lecture 22**: Gaussian Mixture Clustering & EM Algorithm ([slides](https://www.dropbox.com/s/7oh7w8zm4q7zuaz/Lecture_22_Gaussian_Mixture_EM.pdf?dl=0), [html](https://www.dropbox.com/s/n4hs02jjp47xoqp/GMM.html?dl=0))
+* **Lecture 23**: Gradient Descent & Forward/Backward Propagation ([slides](https://www.dropbox.com/s/n98z9prmugr034w/Lecture_23_Forward_Backward_Propagation.pdf?dl=0))
 
 ### Assignments
 
