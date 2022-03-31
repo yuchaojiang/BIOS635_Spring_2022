@@ -51,6 +51,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 * **Lecture 21**: K-Means & Hierarchical Clustering ([slides](https://www.dropbox.com/s/svrsjj0kril6tbm/Lecture_21_k_means_hierarchical_clustering.pdf?dl=0), [html](https://www.dropbox.com/s/vqjtxlz28yk04su/kmeans_hierarchical_solution.html?dl=0))
 * **Lecture 22**: Gaussian Mixture Clustering & EM Algorithm ([slides](https://www.dropbox.com/s/7oh7w8zm4q7zuaz/Lecture_22_Gaussian_Mixture_EM.pdf?dl=0), [html](https://www.dropbox.com/s/n4hs02jjp47xoqp/GMM.html?dl=0))
 * **Lecture 23**: Gradient Descent & Forward/Backward Propagation ([slides](https://www.dropbox.com/s/n98z9prmugr034w/Lecture_23_Forward_Backward_Propagation.pdf?dl=0))
+* **Lecture 24**: Deep Neural Network ([slides](https://www.dropbox.com/s/keg496icwtqb9fs/Lecture_24_Deep_Neural_Network_Big_Data.pdf?dl=0))
 
 ### Assignments
 
