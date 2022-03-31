@@ -61,6 +61,13 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 * **Midterm**: March 1st 9:30am, Rosenau 228.
 * **Final**: May 3rd 8am, Rosenau 228.
 
+### Potential projects
+
+* **Project 1**: [Predict the effect of genetic variants to enable personalized medicine](https://www.kaggle.com/c/msk-redefining-cancer-treatment/)
+* **Project 2**: [West Nile virus prediction](https://www.kaggle.com/c/predict-west-nile-virus/)
+* **Project 3**: [Predict Parkinson’s disease progression with smartphone data](https://www.kaggle.com/c/predicting-parkinson-s-disease-progression-with-smartphone-data)
+* **Project 4**: [Improve the algorithm that classifies drugs based on their biological activity](https://www.kaggle.com/c/lish-moa)
+
 ### Other Resources
 
 * **Machine Learning Textbooks**:<br />
