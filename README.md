@@ -62,7 +62,7 @@ Email:  yuchaoj@email.unc.edu (contact via slack is preferred)
 ### Exams
 
 * **Midterm**: March 1st 9:30am, Rosenau 228.
-* **Final**: May 3rd 8am, Rosenau 228.
+* **Final**: May 3rd 9:00am, Rosenau 228.
 
 ### Potential projects
 
